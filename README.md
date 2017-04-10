@@ -195,4 +195,5 @@ status 200 OK
 - Externalizar a configuraçao da porta de cada Main dos projetos
 - Externalizar mensagens 
 - Fazer módulo para Banco de Dados  (Hibernate)
-- Classes de Testes com JUnit
+- Testes com JUnit
+- Completar JavaDoc
